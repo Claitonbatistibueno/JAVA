@@ -31,7 +31,7 @@ salary
 Create an employee object.
 
 If the employee's salary is €3,000 or more, print "Senior salary."
-Otherwise, print "Standard salary."
+    Otherwise, print "Standard salary."
 
 Exercise 5 – Product Class
 Create a Product class with:

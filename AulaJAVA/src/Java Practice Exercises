@@ -1,0 +1,128 @@
+Java Practice Exercises
+
+Exercise 1 – Age Check
+Create a program that asks the user for their age.
+If the person is 18 or older, print "You are an adult."
+Otherwise, print "You are under 18."
+
+Exercise 2 – Employee Salary
+Create a program that asks for an employee's salary.
+If the salary is greater than €3,000, print "High salary."
+Otherwise, print "Standard salary."
+
+Exercise 3 – Employee Class
+Create an Employee class with the following attributes:
+
+name
+age
+salary
+
+In the Main class, create one employee object and assign values to its attributes.
+
+Print the employee's information.
+
+Exercise 4 – Employee Status
+Create an Employee class with:
+
+name
+age
+salary
+
+Create an employee object.
+
+If the employee's salary is €3,000 or more, print "Senior salary."
+Otherwise, print "Standard salary."
+
+Exercise 5 – Product Class
+Create a Product class with:
+
+name
+price
+quantity
+
+Create one product object.
+
+If the quantity is greater than 10, print "Large stock."
+Otherwise, print "Low stock."
+
+Exercise 6 – Bank Account
+Create a BankAccount class with:
+
+accountHolder
+balance
+
+Create getters and setters for both attributes.
+
+Create an account object and use the setters to assign values.
+
+Use the getters to print the account holder and balance.
+
+Exercise 7 – Employee Validation
+Create an Employee class with:
+
+name
+age
+salary
+
+Use private attributes with getters and setters.
+
+Create an employee object.
+
+If the employee is 18 or older and their salary is greater than €2,500, print "Employee approved."
+Otherwise, print "Employee does not meet the requirements."
+
+Exercise 8 – Vehicle Rental
+Create a Vehicle class with:
+
+brand
+model
+dailyRate
+available
+
+Use private attributes with getters and setters.
+
+Create one vehicle object.
+
+If the vehicle is available and the daily rate is less than €100, print "Vehicle available for rental."
+Otherwise, print "Vehicle is not available."
+
+Exercise 9 – Bicycle Rental
+Create a Bicycle class with:
+
+brand
+model
+hourlyRate
+available
+
+Use private attributes with getters and setters.
+
+Create a bicycle object.
+
+Ask the user how many hours they want to rent the bicycle.
+
+Calculate the total rental cost.
+
+If the bicycle is available and the rental cost is less than €50, print the rental information.
+
+Otherwise, print "Rental cannot be completed."
+
+Exercise 10 – Employee Management System
+Create an Employee class with:
+
+name
+age
+department
+salary
+active
+
+Use private attributes with getters and setters.
+
+In the Main class, create two employee objects.
+
+Ask the user which employee they want to check.
+
+Display the selected employee's information.
+
+If the employee is active and their age is 18 or older and their salary is greater than €2,500, print "Employee meets all requirements."
+
+Otherwise, print "Employee does not meet all requirements."
